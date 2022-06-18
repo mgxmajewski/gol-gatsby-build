@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgame_of_life_front=self.webpackChunkgame_of_life_front||[]).push([[883],{9616:function(e,f,n){n.r(f);var t=n(7294);f.default=function(){return t.createElement("h1",null,"Not found")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-277234ffa22494bdbeb8.js.map
